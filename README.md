@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tinh (Pham The Tinh)</h1>
-<h3 align="center">A passionate Backend developer from Vietnam</h3>
+<h3 align="center">`Who am I?
+A programmer? No
+A software developer? No
+A back-end developer? No
+I am a software engineer`</h3>
 
 - 🌱 I’m currently learning **FPT Polytechnic Collage**
 
